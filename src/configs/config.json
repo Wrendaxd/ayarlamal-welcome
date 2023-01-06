@@ -1,0 +1,31 @@
+{ 
+   "Bot": {
+    "Token": [
+      "Welcome_Token1",
+      "Welcome_Token2",
+      "Welcome_Token3",
+      "Welcome_Token4"
+    ],
+    "MongoURL": "Mongo_URL",
+    "Durum": "❤️ Wrenda",
+    "Status": "❤️ Wrenda",
+    "Owners": ["Sahip_ID"],
+    "Prefix": ["."]
+  },
+  
+   "Server": {
+    "GuildID": "Sunucu_ID"
+  },
+
+   "Roles": {
+    "EnAltYetkiliRolü": "Register_ID"
+  },
+  
+   "Channels": {
+    "BotVoice": [
+      "Ses_Kanalı1",
+      "Ses_Kanalı2",
+      "Ses_Kanalı3",
+      "Ses_Kanalı4"
+    ]
+  }
