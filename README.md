@@ -14,4 +14,6 @@ Sadece Configi Doldurun Ve Başlatın
 ![image](https://user-images.githubusercontent.com/115904494/211110264-8ea7b419-69ab-4d1f-b9b1-b0bc1a6bc042.png)
 ![image](https://user-images.githubusercontent.com/115904494/211110376-185fe6ee-facf-45aa-84fa-4e9822a7f619.png)
 ![image](https://user-images.githubusercontent.com/115904494/211110604-2b64467b-1567-4a9a-8836-122f9efa6108.png)
+![image](https://user-images.githubusercontent.com/115904494/211114322-52b20568-aa59-46af-839a-091792cacca8.png)
+
 
